@@ -40,7 +40,7 @@ class BurgerIngredients extends Component{
   }
 
 
-BurgerIngredients.PropTypes = {
+BurgerIngredients.propTypes = {
   type: PropTypes.string.isRequired
 };
 
